@@ -9,7 +9,7 @@ const NAMES_LIST : any = {
   'ter-stegen': 'Marc-André ter Stegen',
   'trapp': 'Kevin Trapp',
   'leno': 'Bernd Leno',
-  'raum': 'Davin Raum',
+  'raum': 'David Raum',
   'schlotterbeck': 'Nico Schlotterbeck',
   'suele': 'Niklas Süle',
   'ruediger': 'Antonio Rüdiger',
