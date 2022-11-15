@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import path from 'path';
-import fs from 'fs';
+
 import styles from '../styles/Home.module.css'
 
 const NAMES_LIST : any = {
@@ -19,7 +18,7 @@ const NAMES_LIST : any = {
   'tah': 'Jonathan Tah',
   'baku': 'Ridle Baku',
   'guenter': 'Christian Günter',
-  'hoffmann': 'Jonas Hofamnn',
+  'hofmann': 'Jonas Hofmann',
   'guendogan': 'Ilkay Gündogan',
   'kimmich': 'Joshua Kimmich',
   'goretzka': 'Leon Goretzka',
