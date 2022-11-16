@@ -59,7 +59,7 @@ export default function Home() {
           {Object.keys(NAMES_LIST).map((key, index) => {
             return (
               <div className={styles.card} key={index + "card"}>
-                <Image src={`/images/${key}-shiny.png`} alt={NAMES_LIST[key]} width={300} height={300} />
+                <Image src={`/images/${key}-shiny.png`} alt={NAMES_LIST[key]} width={200} height={200} />
                 <h2>{NAMES_LIST[key]}</h2>
               </div>
             )
