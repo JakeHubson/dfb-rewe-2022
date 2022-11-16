@@ -101,6 +101,11 @@
   margin-left: 0.5rem;
 }
 
+.whitespace {
+  display: block;
+  height: 2rem;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

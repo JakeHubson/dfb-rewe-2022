@@ -60,6 +60,10 @@ export default function Home() {
             return (
               <div className={styles.card} key={index + "card"}>
                 <Image src={`/images/${key}-shiny.png`} alt={NAMES_LIST[key]} width={300} height={300} />
+                <p className={styles.whitespace}>
+                  
+                </p>
+                <Image src={`/images/${key}.png`} alt={NAMES_LIST[key]} width={300} height={300} />
                 <h2>{NAMES_LIST[key]}</h2>
               </div>
             )
